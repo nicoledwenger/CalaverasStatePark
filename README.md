@@ -33,7 +33,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Calaveras State Park Screen Shot][product-screenshot]]
+![Calaveras State Park Screen Shot][product-screenshot]
 
 This project was created as a course assignment in CGT 353 in which we had to build an interactive and dynamic site of our choice within a team. My team and I chose to recreate a California state park with a newer, modern design.
 
@@ -52,7 +52,7 @@ This project can be used to expand into your own state park site. Later on, this
 <!-- CONTACT -->
 ## Contact
 
-Nicole Dweger- [LinkedIn](https://www.linkedin.com/in/nicoledwenger/)
+Nicole Dwenger - [LinkedIn](https://www.linkedin.com/in/nicoledwenger/)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
